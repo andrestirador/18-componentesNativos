@@ -1,0 +1,10 @@
+body{
+    background: #141e30;
+    background: linear-gradient(to right, #000012, #141e30);
+    color: #ffffff;
+}
+
+.centrado{
+    text-align: center;
+    vertical-align: middle;
+}
